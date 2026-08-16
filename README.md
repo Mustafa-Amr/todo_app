@@ -1,11 +1,9 @@
 # todo_app
 
 A new Flutter project.
-https://github.com/Mustafa-Amr/todo_app/blob/master/Screenshot%202026-08-16%20152043.png
-
-https://github.com/Mustafa-Amr/todo_app/blob/master/Screenshot%202026-08-16%20152102.png
-
-![Screen 1](Screenshot%202026-08-16%20152121.png)
+![Screen 1](Screenshot%202026-08-16%20152043.png)
+![Screen 3](Screenshot%202026-08-16%20152102.png)
+![Screen 3](Screenshot%202026-08-16%20152121.png)
 
 ## Getting Started
 
