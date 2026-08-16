@@ -5,7 +5,7 @@ https://github.com/Mustafa-Amr/todo_app/blob/master/Screenshot%202026-08-16%2015
 
 https://github.com/Mustafa-Amr/todo_app/blob/master/Screenshot%202026-08-16%20152102.png
 
-!(Screenshot%202026-08-16%20152121.png)
+![Screen 1](Screenshot%202026-08-16%20152121.png)
 
 ## Getting Started
 
